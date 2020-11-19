@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">paper</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="Register" />
+    <string name="register">Register</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Updateprofile">Update Profile</string>
+    <string name="Gender">Gender</string>
+    <string name="Password">Password</string>
+    <string name="DateofBirth">Date of Birth</string>
+    <string name="usernames">user name</string>
+    <string name="delete">Delete</string>
+    <string name="add">add</string>
+</resources>
